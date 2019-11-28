@@ -3,8 +3,10 @@
 //
 
 #include <stdio.h>
-#include </usr/local/include/hiredis/hiredis.h>
+#include <hiredis/hiredis.h>
 #include <time.h>
+
+
 #define CMD_MAXLENGTH 256
 #define REDIS_SERVER_IP "127.0.0.1"//ip地址
 #define REDIS_SERVER_PORT 6379//端口号
