@@ -23,3 +23,4 @@
 [Redis C 语言客户端 hiredis 的使用](https://blog.csdn.net/lihao21/article/details/70339494)
 [hiredis官网](https://redislabs.com/lp/hiredis/)
 [Makefile由浅入深--教程、干货](https://zhuanlan.zhihu.com/p/47390641)
+[git学习--GitHub上如何进行PR(Pull Request)操作](https://blog.csdn.net/qq_33429968/article/details/62219783)
